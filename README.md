@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=180&section=header&text=Muhammad%20Wajahat%20Joyo&fontSize=36&fontColor=ffffff&desc=AI%20%26%20Machine%20Learning%20Engineer&descSize=18&descColor=e9d5ff" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=180&section=header&text=Muhammad%20Wajahat%20Joyo&fontSize=36&fontColor=ffffff&desc=AI%20Developer%20%E2%80%A2%20Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20LLMs&descSize=16&descColor=e9d5ff" width="100%" alt="Header Banner" />
 
 # Muhammad Wajahat Joyo
-### AI & Machine Learning Engineer • Full-Stack AI Systems Developer
+### AI Developer
+Machine Learning • Computer Vision • LLMs • AI Automation • Backend
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-wajahat-joyo/)&nbsp;
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wajahatjoyo9@gmail.com)&nbsp;
@@ -16,22 +17,22 @@
 
 ## 👨‍💻 About Me
 
-AI and Machine Learning Engineer specializing in **Computer Vision**, **Deep Learning Ensembles**, **LLM Applications / RAG**, and **Production Backend Engineering**. I design end-to-end intelligent systems—from model training and multi-model inference pipelines to FastAPI microservices and offline-first client software.
+AI developer focusing on **Computer Vision**, **Neural Ensembles**, **LLM / RAG Architectures**, and **Backend Systems**. I build complete software products—from deep learning model pipelines to FastAPI microservices and offline-first client applications.
 
-- 🧠 **Core Expertise**: Deep Learning, Computer Vision, LLMs, RAG & Vector Search, AI Automation
-- ⚙️ **Backend & MLOps**: FastAPI, Python, Docker, Redis, Apache Kafka, Apache Lucene
-- 📱 **Software Engineering**: Offline-First Architecture, Flutter & Dart, Systems Integration
-- 🎓 **Education**: BS Artificial Intelligence student at **NUST** (National University of Sciences and Technology)
+- 🧠 **Focus**: Computer Vision, Neural Ensembles, LLM Applications & Vector Search
+- ⚙️ **Backend & Tools**: Python, FastAPI, Docker, Redis, Apache Kafka, Apache Lucene
+- 📱 **Software Engineering**: Offline-First Architecture, Flutter & Dart
+- 🎓 **Background**: BS Artificial Intelligence student at **NUST** (National University of Sciences and Technology)
 
 ---
 
 ## ⚡ What I Build
 
-- **Multi-Model Neural Ensembles**: High-accuracy computer vision classification engines utilizing EfficientNet architectures and confidence guardrails.
-- **Real-Time Motion & Pose Analytics**: Computer vision posture tracking, biomechanics analysis, and fatigue estimation using MediaPipe 3D landmarking.
-- **Enterprise AI & RAG Microservices**: Multi-turn customer support bots combining FastAPI, Java OpenNLP, Lucene FAQ search, Redis session memory, and Kafka event streaming.
-- **Autonomous Developer Agents**: Workflow automation agents leveraging local Ollama LLM inference (32k context) and approval-gated actions.
-- **Offline-First Business Systems**: Point-of-sale applications integrating hardware thermal printing, barcode scanning, and SQLite/Isar DB synchronization.
+- **Vision Neural Ensembles**: Dual-model classification engines using EfficientNet backbones with confidence thresholding guardrails.
+- **Biomechanical Motion Analytics**: 3D pose landmarker pipelines calculating real-time joint biomechanics, movement tempo, and muscle fatigue.
+- **AI Support & RAG Microservices**: End-to-end customer support platforms combining FastAPI, Java OpenNLP, Lucene FAQ search, Redis memory, and Kafka logging.
+- **Autonomous Developer Agents**: Local Ollama inference workflows (32k context) with Discord gateway routing and approval gates.
+- **Offline-First Business Systems**: Point-of-sale software integrating local Isar/SQLite storage, barcode scanning, and thermal ESC/POS printing.
 
 ---
 
@@ -47,7 +48,7 @@ AI and Machine Learning Engineer specializing in **Computer Vision**, **Deep Lea
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-### Backend, Cloud & Analytics
+### Backend, Cloud & Data Processing
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -56,7 +57,7 @@ AI and Machine Learning Engineer specializing in **Computer Vision**, **Deep Lea
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-### Software & Web Development
+### Software & Client Engineering
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -70,20 +71,20 @@ AI and Machine Learning Engineer specializing in **Computer Vision**, **Deep Lea
 ## 🚀 Featured Projects
 
 ### 🏋️ [AI Physiotherapist](https://github.com/wajahat2005/AI-Physiotherapist)
-> Real-time exercise pose estimation, 3D biomechanics posture analysis, fatigue tracking, and quality scoring.
+> Real-time exercise pose estimation, 3D biomechanics posture analysis, fatigue tracking, and motion quality scoring.
 
-- **Value Proposition**: Evaluates exercise form, detects kinetic deceleration & muscle fatigue across rep cycles, and delivers real-time posture feedback to prevent athletic injuries.
+- **Value Proposition**: Tracks 33 3D posture landmarks, calculates joint angles, evaluates rep cadence, and estimates kinetic fatigue to prevent physical rehabilitation injuries.
 - **Tech Stack**: `Python`, `MediaPipe Pose`, `OpenCV`, `NumPy`
 - **Links**: [💻 Code Repository](https://github.com/wajahat2005/AI-Physiotherapist)
 
 ---
 
-### ♻️ [AI Waste Classifier (EfficientNet Ensemble)](https://github.com/wajahat2005/garabge-classifier-final-combined-)
-> Max-Confidence neural ensemble combining dual EfficientNet vision models for robust waste classification.
+### ♻️ [Garbage Classifier](https://github.com/wajahat2005/garbage-classifier)
+> Max-Confidence neural ensemble combining dual EfficientNet vision models for waste classification.
 
-- **Value Proposition**: Evaluates input images across dual neural networks (Model V2 380x380 & Model V3 300x300) with a 60% confidence threshold guardrail to eliminate confident misclassifications.
+- **Value Proposition**: Evaluates image streams across dual neural networks (Model V2 380x380 & Model V3 300x300) with a 60% confidence threshold guardrail to eliminate sorting mistakes.
 - **Tech Stack**: `Python`, `TensorFlow / Keras`, `EfficientNet`, `Streamlit`
-- **Links**: [💻 Code Repository](https://github.com/wajahat2005/garabge-classifier-final-combined-)
+- **Links**: [💻 Code Repository](https://github.com/wajahat2005/garbage-classifier)
 
 ---
 
@@ -99,7 +100,7 @@ AI and Machine Learning Engineer specializing in **Computer Vision**, **Deep Lea
 ### 🛍️ [DueKasir POS — Offline-First Retail System](https://github.com/wajahat2005/pos)
 > Cross-platform offline-first point of sale system with thermal receipt printing and cloud synchronization.
 
-- **Value Proposition**: Delivers zero-latency retail checkout, Isar/SQLite offline transactions, ESC/POS USB/Bluetooth thermal printing, barcode scanning, and Supabase cloud sync.
+- **Value Proposition**: Delivers zero-latency cashier checkout, Isar/SQLite offline transaction caching, ESC/POS USB/Bluetooth thermal printing, and Supabase cloud sync.
 - **Tech Stack**: `Flutter`, `Dart`, `Isar DB`, `SQLite`, `Supabase`, `Thermal ESC/POS`
 - **Links**: [💻 Code Repository](https://github.com/wajahat2005/pos)
 
@@ -108,18 +109,18 @@ AI and Machine Learning Engineer specializing in **Computer Vision**, **Deep Lea
 ### 🤖 [Crestodian — Autonomous AI Developer Agent](https://github.com/wajahat2005/crestodian)
 > Personal AI engineering & workflow automation agent with local Ollama LLM inference and approval gates.
 
-- **Value Proposition**: Executes scheduled developer workflows, repository checks, and context-aware tasks using local Ollama models (32k context) via a Discord gateway.
+- **Value Proposition**: Executes scheduled developer workflows, repository checks, and context-aware tasks using local Ollama models (32k context) via Discord.
 - **Tech Stack**: `Python`, `OpenClaw`, `Ollama`, `Discord API`, `Scheduled Workflows`
 - **Links**: [💻 Code Repository](https://github.com/wajahat2005/crestodian)
 
 ---
 
-### 😴 [AI Driver Drowsiness Detector](https://github.com/wajahat2005/drowsyness-detector)
+### 😴 [Driver Drowsiness Detector](https://github.com/wajahat2005/drowsiness-detector)
 > Soft-Voting EfficientNetB3 neural ensemble for real-time driver fatigue & alertness assessment.
 
-- **Value Proposition**: Combines independent facial state probability distributions (eye closure & fatigue metrics) to output real-time driver risk alerts.
+- **Value Proposition**: Combines independent facial state probability distributions (eye closure & fatigue metrics) to output real-time driver safety alerts.
 - **Tech Stack**: `Python`, `TensorFlow / Keras`, `EfficientNetB3`, `Streamlit`
-- **Links**: [💻 Code Repository](https://github.com/wajahat2005/drowsyness-detector)
+- **Links**: [💻 Code Repository](https://github.com/wajahat2005/drowsiness-detector)
 
 ---
 
@@ -137,15 +138,6 @@ AI and Machine Learning Engineer specializing in **Computer Vision**, **Deep Lea
 ![Focus Area](https://img.shields.io/badge/Focus-Artificial_Intelligence-A855F7?style=flat-square&logo=python)
 
 </div>
-
----
-
-## 🏆 Key Engineering Achievements
-
-- **Neural Ensembling**: Architected dual EfficientNet confidence gate pipelines to prevent out-of-distribution vision failures.
-- **Full-Stack AI Microservices**: Integrated FastAPI, Java Lucene, and Kafka event streams into a deployed cloud chatbot system.
-- **Biomechanical Pose Tracking**: Implemented 33-landmark 3D pose analysis for real-time motion stability and fatigue estimation.
-- **Hardware & Database Architecture**: Designed offline-first Isar/SQLite systems with physical ESC/POS thermal printer integration.
 
 ---
 
